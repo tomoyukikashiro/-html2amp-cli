@@ -1,1 +1,1 @@
-# -html2amp-cli
+# html2amp-cli
